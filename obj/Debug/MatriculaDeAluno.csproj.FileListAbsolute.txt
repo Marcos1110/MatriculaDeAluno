@@ -1,0 +1,10 @@
+C:\Users\marco\source\repos\SolucaoCapitulo02\MatriculaDeAluno\bin\Debug\MatriculaDeAluno.exe.config
+C:\Users\marco\source\repos\SolucaoCapitulo02\MatriculaDeAluno\bin\Debug\MatriculaDeAluno.exe
+C:\Users\marco\source\repos\SolucaoCapitulo02\MatriculaDeAluno\bin\Debug\MatriculaDeAluno.pdb
+C:\Users\marco\source\repos\SolucaoCapitulo02\MatriculaDeAluno\obj\Debug\MatriculaDeAluno.csproj.AssemblyReference.cache
+C:\Users\marco\source\repos\SolucaoCapitulo02\MatriculaDeAluno\obj\Debug\MatriculaDeAluno.frmMatriculaDeAluno.resources
+C:\Users\marco\source\repos\SolucaoCapitulo02\MatriculaDeAluno\obj\Debug\MatriculaDeAluno.Properties.Resources.resources
+C:\Users\marco\source\repos\SolucaoCapitulo02\MatriculaDeAluno\obj\Debug\MatriculaDeAluno.csproj.GenerateResource.cache
+C:\Users\marco\source\repos\SolucaoCapitulo02\MatriculaDeAluno\obj\Debug\MatriculaDeAluno.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\SolucaoCapitulo02\MatriculaDeAluno\obj\Debug\MatriculaDeAluno.exe
+C:\Users\marco\source\repos\SolucaoCapitulo02\MatriculaDeAluno\obj\Debug\MatriculaDeAluno.pdb
