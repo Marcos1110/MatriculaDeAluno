@@ -1,0 +1,10 @@
+C:\Users\MARCOS\Documents\Programacao\CSharp\SolucaoCapitulo02\MatriculaDeAlunoV2\bin\Debug\MatriculaDeAlunoV2.exe.config
+C:\Users\MARCOS\Documents\Programacao\CSharp\SolucaoCapitulo02\MatriculaDeAlunoV2\bin\Debug\MatriculaDeAlunoV2.exe
+C:\Users\MARCOS\Documents\Programacao\CSharp\SolucaoCapitulo02\MatriculaDeAlunoV2\bin\Debug\MatriculaDeAlunoV2.pdb
+C:\Users\MARCOS\Documents\Programacao\CSharp\SolucaoCapitulo02\MatriculaDeAlunoV2\obj\Debug\MatriculaDeAlunoV2.csproj.AssemblyReference.cache
+C:\Users\MARCOS\Documents\Programacao\CSharp\SolucaoCapitulo02\MatriculaDeAlunoV2\obj\Debug\MatriculaDeAlunoV2.frmMatriculaDeAlunoV2.resources
+C:\Users\MARCOS\Documents\Programacao\CSharp\SolucaoCapitulo02\MatriculaDeAlunoV2\obj\Debug\MatriculaDeAlunoV2.Properties.Resources.resources
+C:\Users\MARCOS\Documents\Programacao\CSharp\SolucaoCapitulo02\MatriculaDeAlunoV2\obj\Debug\MatriculaDeAlunoV2.csproj.GenerateResource.cache
+C:\Users\MARCOS\Documents\Programacao\CSharp\SolucaoCapitulo02\MatriculaDeAlunoV2\obj\Debug\MatriculaDeAlunoV2.csproj.CoreCompileInputs.cache
+C:\Users\MARCOS\Documents\Programacao\CSharp\SolucaoCapitulo02\MatriculaDeAlunoV2\obj\Debug\MatriculaDeAlunoV2.exe
+C:\Users\MARCOS\Documents\Programacao\CSharp\SolucaoCapitulo02\MatriculaDeAlunoV2\obj\Debug\MatriculaDeAlunoV2.pdb

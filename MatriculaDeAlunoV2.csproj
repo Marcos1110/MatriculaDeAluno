@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{7FCE3578-D0D7-44E3-B405-821C4007729D}</ProjectGuid>
+    <ProjectGuid>{15D60D98-4DEA-4B3C-8588-FDB6BCDB7D0C}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>MatriculaDeAluno</RootNamespace>
-    <AssemblyName>MatriculaDeAluno</AssemblyName>
+    <RootNamespace>MatriculaDeAlunoV2</RootNamespace>
+    <AssemblyName>MatriculaDeAlunoV2</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -46,16 +46,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="FormMatriculaDeAluno.cs">
+    <Compile Include="FormMatriculaDeAlunoV2.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FormMatriculaDeAluno.Designer.cs">
-      <DependentUpon>FormMatriculaDeAluno.cs</DependentUpon>
+    <Compile Include="FormMatriculaDeAlunoV2.Designer.cs">
+      <DependentUpon>FormMatriculaDeAlunoV2.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="FormMatriculaDeAluno.resx">
-      <DependentUpon>FormMatriculaDeAluno.cs</DependentUpon>
+    <EmbeddedResource Include="FormMatriculaDeAlunoV2.resx">
+      <DependentUpon>FormMatriculaDeAlunoV2.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

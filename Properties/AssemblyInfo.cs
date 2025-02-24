@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // As informações gerais sobre um assembly são controladas por
 // conjunto de atributos. Altere estes valores de atributo para modificar as informações
 // associadas a um assembly.
-[assembly: AssemblyTitle("MatriculaDeAluno")]
+[assembly: AssemblyTitle("MatriculaDeAlunoV2")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("MatriculaDeAluno")]
+[assembly: AssemblyProduct("MatriculaDeAlunoV2")]
 [assembly: AssemblyCopyright("Copyright ©  2025")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // O GUID a seguir será destinado à ID de typelib se este projeto for exposto para COM
-[assembly: Guid("7fce3578-d0d7-44e3-b405-821c4007729d")]
+[assembly: Guid("15d60d98-4dea-4b3c-8588-fdb6bcdb7d0c")]
 
 // As informações da versão de um assembly consistem nos quatro valores a seguir:
 //

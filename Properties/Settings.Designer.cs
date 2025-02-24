@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace MatriculaDeAluno.Properties
+namespace MatriculaDeAlunoV2.Properties
 {
 
 

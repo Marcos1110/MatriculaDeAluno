@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace MatriculaDeAluno
+namespace MatriculaDeAlunoV2
 {
     internal static class Program
     {
@@ -16,7 +16,7 @@ namespace MatriculaDeAluno
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmMatriculaDeAluno());
+            Application.Run(new frmMatriculaDeAlunoV2());
         }
     }
 }
