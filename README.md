@@ -59,6 +59,6 @@ O projeto **"Identificação de Categoria na Natação"** demonstra a utilizaç�
 - **Conversão de Tipos:** Transformação de valores de `string` para `int` para realizar cálculos matemáticos.
 - **Lógica Condicional:** Utilização de `if-else` para classificar o nadador em diferentes categorias.
 
-O projeto tem 2 versões. Você pode visualizar a versão original ![aqui](https://github.com/Marcos1110/MatriculaDeAluno/tree/versao_1)
+O projeto tem 2 versões. Você pode visualizar a versão original [aqui](https://github.com/Marcos1110/MatriculaDeAluno/tree/versao_1)
 
 ---
